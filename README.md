@@ -1,0 +1,1 @@
+![DB](./project_planning/db_schema.png)
